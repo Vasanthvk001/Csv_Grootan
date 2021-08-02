@@ -38,9 +38,7 @@
         <td width="149" height="31"><div align="center"><a href="index.jsp" class="style1">HOME</a></div></td>
 
 
-		 <td width="188"><div align="center"><a href="Aboutus.jsp" class="style1">ABOUT_US</a></div></td>
         <td width="181"><div align="center"><a href="login.jsp" class="style1">LOGIN</a></div></td>
-        <td width="188"><div align="center"><a href="contactus.jsp" class="style1">CONTACT_US </a></div></td>
 		 
       </tr>
     </table></td>
